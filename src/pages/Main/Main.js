@@ -21,7 +21,7 @@ function Main() {
             <Achievement />
             {/* <Services /> */}
             {/* <Testimonials /> */}
-            <Blog />
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>
