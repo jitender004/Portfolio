@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'abhishekchoubeyofficial12@gmail.com',
-    phone: '+918770207441',
-    address: 'Indore, Madhya Padesh, India ',
+    email: 'jitenderjattu04@gmail.com',
+    phone: '+919306140827',
+    address: 'Rohtak, Haryana, India ',
 
     sheetAPI: ''
 }

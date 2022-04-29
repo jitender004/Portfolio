@@ -25,7 +25,7 @@ function ProjectPage() {
         search : {
             color: theme.tertiary, 
             width: '40%',
-            height: '2.75rem',
+            height: '2.7rem',
             outline: 'none',
             border: 'none',
             borderRadius: '20px',

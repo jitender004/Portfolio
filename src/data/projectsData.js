@@ -11,20 +11,20 @@
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Pepperfry.com',
-        projectDesc: 'Pepperfry is an Indian online marketplace for purchasing furniture and home décor.',
+        projectName: 'Strawberrynet',
+        projectDesc: 'Strawberrynet is a one-stop beauty destination with a diverse selection of premium brands in fragrance, make-up, skin care, hair care & derma cosmetics..',
         tags: ['HTML', 'CSS', 'Javascript'],
-        code: 'https://angry-fermat-60ac30.netlify.app/',
-        demo: 'https://github.com/Abhishek-Choubey/Pepperfry_Clone',
-        image: 'https://cloud1.ipupload.com/cache/plugins/filepreviewer/14818/bf40b98bc0372eeb99ea367e9bc8f2bc6344cdc2e2b29ca2d1db9325c6817fa0/1100x800_cropped.jpg'
+        code: 'https://github.com/prathyu116/StrawberrynetClone',
+        demo:'https://vigilant-lamarr-61e6fa.netlify.app/',
+        image: 'https://www.linkpicture.com/q/straw.png'
     },
     {
         id: 2,
         projectName: 'Reliance Retail',
         projectDesc: 'Reliance Retail is India\'s largest retailer where people can purchase various types of products.',
         tags: ['HTML', 'CSS', 'Javascript'],
-        code: 'https://quizzical-fermat-806f31.netlify.app/',
-        demo: 'https://github.com/Abhishek-Choubey/Reliance-Retail-',
+        code: 'https://github.com/Masai-Team/Ass-Project',
+        demo: 'https://quizzical-fermat-806f31.netlify.app/',
         image: 'https://cloud1.ipupload.com/cache/plugins/filepreviewer/14819/4eb404e609ef3f09d6a03ba8edf10190492ffee807618d27674e8f8441faf8d7/1100x800_cropped.jpg'
     },
     // {

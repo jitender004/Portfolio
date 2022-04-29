@@ -8,16 +8,16 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'Devi Ahilya Vishwavidyalaya',
+        institution: 'Maharshi Dayanand University',
         course: 'Bachelor of Computer Application',
-        startYear: '2018',
-        endYear: '2021'
+        startYear: '2017',
+        endYear: '2020'
     },
     {
         id: 3,
-        institution: 'SGRJPS',
+        institution: 'GBC',
         course: 'Higher Secondary Education',
-        startYear: '2017',
-        endYear: '2018'
+        startYear: '2016',
+        endYear: '2017'
     },
 ]
