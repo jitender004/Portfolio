@@ -31,6 +31,7 @@ function Skills() {
                         delay={0}
                         play={true} 
                         direction="left"
+                        // cursor={pointer}
                     >
                         {skillsData.map((skill, id) => (
                             <div className="skill--box" key={id} style={skillBoxStyle}>

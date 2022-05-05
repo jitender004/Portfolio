@@ -34,7 +34,7 @@ export const projectsData = [
     //     tags: ['Django', 'CSS', 'Material Ui'],
     //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: three
+    //     // image: three
     // },
     // {
     //     id: 4,
@@ -43,7 +43,7 @@ export const projectsData = [
     //     tags: ['Flutter', 'Firebase'],
     //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
+    //     // image: four
     // },
     // {
     //     id: 5,
@@ -52,7 +52,7 @@ export const projectsData = [
     //     tags: ['React Native', 'Firebase'],
     //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
+    //     // image: five
     // },
     // {
     //     id: 6,
@@ -79,7 +79,7 @@ export const projectsData = [
     //     tags: ['Flutter', 'React'],
     //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: eight
+    //     // image: eight
     // },
 ]
 
