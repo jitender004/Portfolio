@@ -229,9 +229,9 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade left>
+                        {/* <Fade left>
                             <NavLink
-                                to='/#skills'
+                                to='/#Skills'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -245,7 +245,7 @@ function Navbar() {
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade>
+                        </Fade> */}
 
                         <Fade left>
                             <NavLink
