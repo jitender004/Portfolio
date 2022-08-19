@@ -27,7 +27,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
         },
         icon: {
             fontSize: '1.1rem',
-            transition: 'all 0.2s',
+            transition: 'all 0.3s',
             '&:hover': {},
         },
     }));
