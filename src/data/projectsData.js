@@ -13,20 +13,22 @@ export const projectsData = [
     projectName: "Strawberrynet",
     projectDesc:
       "Strawberrynet is a one-stop beauty destination with a diverse selection of premium brands in fragrance, make-up, skin care, hair care & derma cosmetics..",
-    tags: ["HTML", "CSS", "Javascript"],
+    tags: ["HTML", "CSS", "Javascript", "MongoDB", "Express", "Nodejs"],
     code: "https://github.com/prathyu116/StrawberrynetClone",
     demo: "https://vigilant-lamarr-61e6fa.netlify.app/",
     image: "https://i.ibb.co/2Zb2wS0/straw.png",
   },
   {
     id: 2,
-    projectName: "Reliance Retail",
+    projectName: "Rodan + Fields®",
     projectDesc:
-      "Reliance Retail is India's largest retailer where people can purchase various types of products.",
-    tags: ["HTML", "CSS", "Javascript"],
-    code: "https://github.com/Masai-Team/Ass-Project",
-    demo: "https://quizzical-fermat-806f31.netlify.app/",
-    image: "https://i.ibb.co/dGNTYvW/Screenshot-from-2022-08-19-00-54-03.png",
+      "Rodan + Fields is the #1 Premium Skincare Regimen Brand in the U.S. for 4 Consecutive Years (2018 – 2021)*",
+    tags: [
+      "React , Redux, ChakraUI, Javascript, Express, MongoDB, AWS Amplify",
+    ],
+    code: "https://github.com/jitender004/wonderful-sound-2096",
+    demo: "https://master.d23z4v79tx0nu6.amplifyapp.com/",
+    image: "https://i.ibb.co/jWnhVCs/Screenshot-from-2022-08-21-07-22-14.png",
   },
   // {
   //     id: 3,
