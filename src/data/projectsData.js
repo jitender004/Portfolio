@@ -30,33 +30,35 @@ export const projectsData = [
     demo: "https://master.d23z4v79tx0nu6.amplifyapp.com/",
     image: "https://i.ibb.co/jWnhVCs/Screenshot-from-2022-08-21-07-22-14.png",
   },
-  // {
-  //     id: 3,
-  //     projectName: 'Weather App',
-  //     projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-  //     tags: ['Django', 'CSS', 'Material Ui'],
-  //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     // image: three
-  // },
-  // {
-  //     id: 4,
-  //     projectName: 'Android Patient Tracker',
-  //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-  //     tags: ['Flutter', 'Firebase'],
-  //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     // image: four
-  // },
-  // {
-  //     id: 5,
-  //     projectName: 'E-Commerce App',
-  //     projectDesc: 'A Simple E-commerce application',
-  //     tags: ['React Native', 'Firebase'],
-  //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-  //     // image: five
-  // },
+  {
+    id: 3,
+    projectName: "Chat App",
+    projectDesc: "Messenger chat application for individuals",
+    tags: ["React", "MongoDB", "Express", "SocketIO"],
+    code: "https://github.com/jitender004/chat-application",
+    demo: "https://master.d3mgm6ugvhrum8.amplifyapp.com/login",
+    image: "https://i.ibb.co/r0P3yVb/Screenshot-from-2022-09-08-04-23-11.png",
+    // image: three
+  },
+  {
+    id: 4,
+    projectName: "Authentication Application",
+    projectDesc: "User Authentication Application With Firebase",
+    tags: ["React", "Firebase"],
+    code: "",
+    demo: "",
+    image: "https://i.ibb.co/tQPnGC5/Screenshot-from-2022-09-08-04-33-16.png",
+    // image: four
+  },
+  {
+    id: 5,
+    projectName: "E-Commerce App",
+    projectDesc: "A Simple E-commerce application",
+    tags: ["React", "Firebase", "Bootstrap", "Redux"],
+    code: "",
+    demo: "",
+    // image: five
+  },
   // {
   //     id: 6,
   //     projectName: 'Uber Lite',

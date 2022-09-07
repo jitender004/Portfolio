@@ -22,15 +22,17 @@ function App() {
   );
   return (
     <div className="app">
-      <Router>
-        <ScrollToTop />
-        <Switch>
-          <Route path="/" exact component={Main} />
-          <Route path="/blog" exact component={BlogPage} />
-          <Route path="/projects" exact component={ProjectPage} />
-          <Redirect to="/" />
-        </Switch>
-      </Router>
+      <React.StrictMode>
+        <Router>
+          <ScrollToTop />
+          <Switch>
+            <Route path="/" exact component={Main} />
+            <Route path="/blog" exact component={BlogPage} />
+            <Route path="/projects" exact component={ProjectPage} />
+            <Redirect to="/" />
+          </Switch>
+        </Router>
+      </React.StrictMode>
       <BackToTop />
     </div>
   );
