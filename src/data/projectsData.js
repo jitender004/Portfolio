@@ -27,7 +27,7 @@ export const projectsData = [
       "React , Redux, ChakraUI, Javascript, Express, MongoDB, AWS Amplify",
     ],
     code: "https://github.com/jitender004/wonderful-sound-2096",
-    demo: "https://master.d23z4v79tx0nu6.amplifyapp.com/",
+    demo: "https://wonderful-sound-2096-wvrw.vercel.app/",
     image: "https://i.ibb.co/jWnhVCs/Screenshot-from-2022-08-21-07-22-14.png",
   },
   {
@@ -36,7 +36,7 @@ export const projectsData = [
     projectDesc: "Messenger chat application for individuals",
     tags: ["React", "MongoDB", "Express", "SocketIO"],
     code: "https://github.com/jitender004/chat-application",
-    demo: "https://master.d3mgm6ugvhrum8.amplifyapp.com/login",
+    demo: "https://chat-application-one-eta.vercel.app/login",
     image: "https://i.ibb.co/r0P3yVb/Screenshot-from-2022-09-08-04-23-11.png",
     // image: three
   },
